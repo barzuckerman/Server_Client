@@ -1,4 +1,4 @@
-# Service_Client
+# Server_Client
 ## Introduction
 This repository contains the implementation of an extended Trivial File Transfer Protocol (TFTP) server and client. The TFTP server facilitates file transfers between multiple users, allowing them to upload and download files while also announcing when files are added or deleted to the server. Communication between the server and clients is performed using a binary communication protocol supporting upload, download, and file lookup functionalities.
 
